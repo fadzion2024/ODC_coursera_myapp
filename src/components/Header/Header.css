@@ -1,0 +1,40 @@
+.header {
+  background-color: #49574A;
+  padding: 24px;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.logo-outer {
+  width: 40px;
+  height: 40px;
+  background-color: #F4CE14;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo-inner {
+  width: 24px;
+  height: 24px;
+  background-color: #49574A;
+  border-radius: 50%;
+}
+
+.header-title {
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.header-subtitle {
+  color: #F4CE14;
+  font-size: 14px;
+  margin: 4px 0 0 0;
+}
